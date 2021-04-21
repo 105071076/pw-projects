@@ -6,7 +6,7 @@ Watch my *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
 
 ## Project Source Codes:
 - [Hangman Game](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/hangman/hangman.py)
- - python semantics & syntax
+  - python semantics & syntax
 
 *[Breakout Game](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/breakout%20game/breakout_extensions.py)
  - animation & game designing
