@@ -8,14 +8,14 @@ Watch my *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
 - [Hangman Game](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/hangman/hangman.py)
   - python semantics & syntax
 
-*[Breakout Game](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/breakout%20game/breakout_extensions.py)
- - animation & game designing
+- [Breakout Game](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/breakout%20game/breakout_extensions.py)
+  - animation & game designing
 
-*[Name Popularity Searching System](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/name_searching/babynames.py)
- - data structure
+- [Name Popularity Searching System](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/name_searching/babynames.py)
+  - data structure
 
-*[Boggle Game Solver](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/boggle%20game%20solver/boggle.py)
- - recursive functions
+- [Boggle Game Solver](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/boggle%20game%20solver/boggle.py)
+  - recursive functions
 
 
 
