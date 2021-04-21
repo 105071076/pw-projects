@@ -5,16 +5,16 @@ This responsitory holds my programming projects done during the period of stanCo
 Watch my *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
 
 ## Project Source Codes:
-[Hangman Game]
+*[Hangman Game]
  - python semantics & syntax
 *[Weather Master]
-  .python semantics & syntax
+ - python semantics & syntax
 *[Breakout Game]
-  .animation & game designing
+ - animation & game designing
 *[Name Popularity Searching System]
-  .data structure
+ - data structure
 *[Boggle Game Solver]
-  .recursive functions
+ - recursive functions
 
 
 
