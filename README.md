@@ -5,7 +5,7 @@ This responsitory holds my programming projects done during the period of stanCo
 Watch my *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
 
 ## Project Source Codes:
-*[Hangman Game](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/hangman/hangman.py)
+- [Hangman Game](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/hangman/hangman.py)
  - python semantics & syntax
 
 *[Breakout Game](https://github.com/105071076/pw-projects/blob/main/stancode%20projects/breakout%20game/breakout_extensions.py)
