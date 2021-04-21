@@ -6,15 +6,15 @@ Watch my *[DEMO VIDEO](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
 
 ## Project Source Codes:
 *[Hangman Game]
-  *python semantics & syntax
+  .python semantics & syntax
 *[Weather Master]
-  *python semantics & syntax
+  .python semantics & syntax
 *[Breakout Game]
-  *animation & game designing
+  .animation & game designing
 *[Name Popularity Searching System]
-  *data structure
+  .data structure
 *[Boggle Game Solver]
-  *recursive functions
+  .recursive functions
 
 
 
